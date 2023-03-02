@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL Alchemy, and Flask**
 
-- 💬 Ask me about **React, SQL, Python, Ruby on Rails and Java**
+- 💬 Ask me about **React, SQL, Python, Ruby on Rails, and Java**
 
 - 📫 How to reach me **stephenolambert@gmail.com**
 
