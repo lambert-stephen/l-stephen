@@ -24,4 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l-stephen&show_icons=true&locale=en" alt="l-stephen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-stephen&" alt="l-stephen" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=l-stephen)](https://git.io/streak-stats)
 
