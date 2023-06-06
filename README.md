@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l-stephen&label=Profile%20views&color=0e75b6&style=flat" alt="l-stephen" /> </p>
 
-- 🌱 I’m currently learning **SQL Alchemy, and Flask**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React, SQL, Python, Ruby on Rails, and Java**
+- 💬 Ask me about **React, SQL, Python, Flask, Ruby on Rails, and Java**
 
 - 📫 How to reach me **stephenolambert@gmail.com**
 
